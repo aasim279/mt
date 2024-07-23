@@ -1,0 +1,44 @@
+[
+  {
+    "dateTime": "7/22/2024, 10:28:16 PM",
+    "totalCCOI": 97400,
+    "totalPCOI": 29913,
+    "currentIPCR": "0.31",
+    "action": "Buy Put",
+    "strikePrice": 24500,
+    "actionColor": "lightcoral",
+    "currentStrikeCoiData": {
+      "callCoi": 42978,
+      "putCoi": 11197
+    },
+    "oneStepUpStrikeCoiData": {
+      "callCoi": 25612,
+      "putCoi": 8040
+    },
+    "oneStepDownStrikeCoiData": {
+      "callCoi": 7272,
+      "putCoi": 12235
+    }
+  },
+  {
+    "dateTime": "7/22/2024, 10:30:19 PM",
+    "totalCCOI": 97400,
+    "totalPCOI": 29913,
+    "currentIPCR": "0.31",
+    "action": "Buy Put",
+    "strikePrice": 24500,
+    "actionColor": "lightcoral",
+    "currentStrikeCoiData": {
+      "callCoi": 42978,
+      "putCoi": 11197
+    },
+    "oneStepUpStrikeCoiData": {
+      "callCoi": 25612,
+      "putCoi": 8040
+    },
+    "oneStepDownStrikeCoiData": {
+      "callCoi": 7272,
+      "putCoi": 12235
+    }
+  }
+]
